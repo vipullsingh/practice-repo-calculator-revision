@@ -1,4 +1,3 @@
-document.addEventListener("DOMContentLoaded", () => {
     const expressionInput = document.getElementById("expression");
     const buttons = document.querySelectorAll(".button");
   
@@ -20,5 +19,3 @@ document.addEventListener("DOMContentLoaded", () => {
         }
       });
     });
-  });
-  
